@@ -1,4 +1,4 @@
-a continuacion TE voy a pasar El contendido de UN archivo readme. no quiero que contestes:
+
 
 # Landing Page - In-N-Out 🍔
 
